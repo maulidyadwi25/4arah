@@ -36,17 +36,17 @@ html {
 }
 
 .hovereffect:hover{
-    background-color: #8e62a9;
+    background-color: #8d021f;
 }
 .hovereffect:hover .text-color-black, .hovereffect:hover .text-primary{
     color: white !important;
 }
 .hovereffect:active{
     background-color: white !important;
-    color: #8e62a9;
-    box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
--webkit-box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
--moz-box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
+    color: #8d021f;
+    box-shadow: 10px 11px 40px -5px #8d021f;
+-webkit-box-shadow: 10px 11px 40px -5px #8d021f;
+-moz-box-shadow: 10px 11px 40px -5px #8d021f;
 }
 .btn-slider:hover {
     box-shadow: none;
@@ -57,7 +57,7 @@ html {
     padding: 8px;
 }
 .btn-slider.active{
-    color: #8e62a9 !important;
+    color: #8d021f !important;
 }
 .modal-body{
     padding-bottom: 1rem;
@@ -73,18 +73,18 @@ html {
     width: 1.5rem;
     border-radius: 100%;
     color: white;
-    background-color: #8e62a9;
+    background-color: #8d021f;
 }
 .bg-roundedfooter{
     height: 2.5rem;
     width: 2.5rem;
     border-radius: 100%;
-    color: #8e62a9;
+    color: #8d021f;
     background-color: white;
 }
 .bg-roundedfooter:hover{
     border-radius: 100%;
-    color: #8e62a9;
+    color: #8d021f;
     background-color: white;
 }
 /* .text-neutral-900{
